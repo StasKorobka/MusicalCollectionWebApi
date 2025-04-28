@@ -359,7 +359,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-*properties/
+Properties/
 MusicalCollectionWebApi.http
 
 # Fody - auto-generated XML schema
