@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DataAccess\**" />
+    <Content Remove="DataAccess\**" />
+    <EmbeddedResource Remove="DataAccess\**" />
+    <None Remove="DataAccess\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.4">
