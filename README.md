@@ -19,5 +19,5 @@ The task was:
 
 ### DB diagram
 ![DB diagram](Images/DB-diagram.png)
-For better view go to [DB diagram](https://dbdesigner.page.link/GN9LRu7Tjwbm7Zhc8)!
+For better view go to [DB designer](https://dbdesigner.page.link/GN9LRu7Tjwbm7Zhc8)!
 

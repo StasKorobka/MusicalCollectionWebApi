@@ -368,3 +368,5 @@ MigrationBackup/
 FodyWeavers.xsd
 /MusicalCollectionWebApi.http
 /MusicalCollectionWebApi.sln
+/appsettings.Development.json
+/libman.json
